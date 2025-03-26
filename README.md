@@ -8,4 +8,4 @@ npm i
 npm run server
 ```
 
-[todos.git](./assets/vu2-todos.gif)
+![vue2-toods.gif](https://github.com/tswcbyy1107/vue-demo/blob/master/assets/vu2-todos.gif)
